@@ -111,7 +111,6 @@ REST APIs  ·  WebSockets  ·  GraphQL  ·  DSA (400+ LeetCode)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ankitRaj10022&theme=dark&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896)](https://git.io/streak-stats)
 
 </div>
 
