@@ -99,13 +99,19 @@ REST APIs  ·  WebSockets  ·  GraphQL  ·  DSA (400+ LeetCode)
 
 ---
 
-## GitHub Stats
+## By The Numbers
 
 <div align="center">
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitRaj10022&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=ffffff)
+![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Systems](https://img.shields.io/badge/Production%20Systems%20Shipped-4-00C896?style=for-the-badge)
+![Certs](https://img.shields.io/badge/Oracle%20Cloud%20Certifications-3-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitRaj10022&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C896&text_color=ffffff)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitRaj10022&theme=dark&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896)](https://git.io/streak-stats)
 
 </div>
 
